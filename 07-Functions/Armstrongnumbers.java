@@ -22,6 +22,3 @@ public class Armstrongnumbers {
         return sum == original;
     }
  }
-
-# Array
-    [Bubble Sort](https://youtu.be/F5MZyqRp_IM)
