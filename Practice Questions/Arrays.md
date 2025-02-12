@@ -21,3 +21,12 @@
 - [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
 - [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/)
 - [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/)
+- [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/)
+- [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
+
+# Medium
+- [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/?envType=study-plan-v2&envId=top-interview-150)
+- [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/?envType=study-plan-v2&envId=top-interview-150)
+- [134. Gas Station](https://leetcode.com/problems/gas-station/description/?envType=study-plan-v2&envId=top-interview-150)
+- [274. H-Index](https://leetcode.com/problems/h-index/description/?envType=study-plan-v2&envId=top-interview-150)
+- 
