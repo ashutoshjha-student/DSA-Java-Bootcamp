@@ -29,4 +29,16 @@
 - [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/?envType=study-plan-v2&envId=top-interview-150)
 - [134. Gas Station](https://leetcode.com/problems/gas-station/description/?envType=study-plan-v2&envId=top-interview-150)
 - [274. H-Index](https://leetcode.com/problems/h-index/description/?envType=study-plan-v2&envId=top-interview-150)
-- 
+- [198. House Robber](https://leetcode.com/problems/house-robber/description/)
+- [55. Jump Game](https://leetcode.com/problems/jump-game/description/)
+- [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
+- [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=study-plan-v2&envId=top-interview-150)
+- [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/)
+- [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)
+- [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/)
+- [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
+- [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)
+- [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/?envType=study-plan-v2&envId=top-interview-150)
+
+# Hard
+- [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)
