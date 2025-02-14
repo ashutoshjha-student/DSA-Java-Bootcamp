@@ -14,7 +14,12 @@
 - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) 
 - [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)
 - [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list)
-
-
+- [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) 
+- [ Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list)
+- [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) 
+- [Partition list](https://leetcode.com/problems/partition-list/) 
+- [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
+- [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)
+- [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/)
 
 
